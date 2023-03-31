@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👀 I am Matteo, born in 1985 in Turin
-- 🌱 50% Data scientist, 50% web dev :)
-- 💕 Interests: Pool, videogames, basketball
 - ⚡ Fun fact: I am a Sake Sommelier (certified by the Sake Sommelier Association)
 
 ### Tech Stack
